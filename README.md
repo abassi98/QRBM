@@ -9,13 +9,4 @@ The program aims to repoduce the results of Carleo et al., 2017, "Solving the qu
 -jupyter notebook: 6.1.4+
 
 ## Installation
-To install on Linux and Mac
-,,,
-cd src
-make
-,,,
-Clean with
-'''
-cd src
-make clean
-,,,
+cd src make
